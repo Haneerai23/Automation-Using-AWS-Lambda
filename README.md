@@ -1,2 +1,2 @@
-# Automation-Using-AWS-Lambda
-Creation of REST API using a Serverless architecture(AWS Lambda)
+
+An API for Pet Information, Created by Lambda and written in Python
